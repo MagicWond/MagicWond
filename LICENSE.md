@@ -1,4 +1,4 @@
-Copyright (c) 2022 MagicWond
+Copyright (c) 2022 MagicWond .All Rights Reserved.
 
 -----------------------------------------------------------------
 MagicWond Business Edition license (the “Enterprise License”)
