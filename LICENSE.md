@@ -6,7 +6,7 @@ MagicWond Business Edition license (the “Enterprise License”)
 To license the Business Edition of MagicWond, and take advantage of its additional features, functionality and support,
 you must agree to the terms of the MagicWond Business License Agreement, thus, no permissions are granted otherwise those expressly contracted and bought.
 
-Any doubts or violations that may arise, please contact MagicWond Support at [magicwandcorp@gmail.com](mailto:magicwandcorp@gmail.com).
+Any doubts or violations that may arise, please contact MagicWond Support at [magicwondcorp@gmail.com](mailto:magicwondcorp@gmail.com).
 Business Edition license may be bought at https://magicwond.com .
 
 -----------------------------------------------------------------
