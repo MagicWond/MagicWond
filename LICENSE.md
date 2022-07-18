@@ -1,4 +1,5 @@
-Copyright (c) 2022 MagicWond .All Rights Reserved.
+Copyright (c) 2022 MagicWond .All Rights Reserved. \
+Author: Made with Love by Cupid@zul [cupidazul@gmail.com](mailto:cupidazul@gmail.com).
 
 -----------------------------------------------------------------
 MagicWond Business Edition license (the “Enterprise License”)
@@ -6,7 +7,7 @@ MagicWond Business Edition license (the “Enterprise License”)
 To license the Business Edition of MagicWond, and take advantage of its additional features, functionality and support,
 you must agree to the terms of the MagicWond Business License Agreement, thus, no permissions are granted otherwise those expressly contracted and bought.
 
-Any doubts or violations that may arise, please contact MagicWond Support at [magicwondcorp@gmail.com](mailto:magicwondcorp@gmail.com).
+Any doubts or violations that may arise, please contact MagicWond Support at [magicwondcorp@gmail.com](mailto:magicwondcorp@gmail.com).\
 Business Edition license may be bought at https://magicwond.com .
 
 -----------------------------------------------------------------
